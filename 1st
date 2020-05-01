@@ -1,5 +1,8 @@
 first line
 second line
 third
+<<<<<<< HEAD
 fourth
 five
+=======
+>>>>>>> parent of 8bf9e6a... fourth
